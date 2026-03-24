@@ -8,10 +8,15 @@ Dimensions of a nut cracker necessary to crack a macademia nut
 1) Required load to crack nut: 222.18 kg
 2) Grip strength is about 40 kg
 3) Size of nut is 2 cm
+4) The applied force (F_initial/F_i) is applied at the very end of the nutcracker
 
 ## Assume:
 (this value is based on what the homework solution gave)
 1) L_c = 4 cm 
+2) There is a normal force (F_n) at 4cm
+
+## Diagram:
+![This is an image of the nutcracker with it's dimensions](assets/images/nutcracker_diagram.jpg)
 
 ## Plan:
 1) Find moment about chosen original
