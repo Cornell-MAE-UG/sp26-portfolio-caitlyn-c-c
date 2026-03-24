@@ -24,7 +24,7 @@ Dimensions of a nut cracker necessary to crack a macademia nut
 2) There is a normal force (F_n) at 4cm
 
 ## Diagram:
-![This is an image of the nutcracker with it's dimensions](assets/images/nutcracker_diagram.jpg)
+![This is an image of the nutcracker with it's dimensions](/assets/images/nutcracker_diagram.jpg)
 
 ## Plan:
 1) Find moment about chosen original
