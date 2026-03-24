@@ -1,3 +1,11 @@
+---
+layout: project
+title: Nutcracker Dimensions
+description: ENGRD 2020
+technologies: ---
+image: /assets/images/nutcracker.jpg
+---
+
 # Nutcracker design
 
 ## Find: 
