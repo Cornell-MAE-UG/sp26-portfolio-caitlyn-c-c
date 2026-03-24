@@ -42,7 +42,7 @@ Dimensions of a nut cracker necessary to crack a macademia nut
 
 Using the joint of the nutcracker as the pivot point, our moments equation becomes:
 
-$$
+```math
 \sum M = 0 = L_f \cdot F_i - L_c \cdot F_n
 
 \frac{L_f}{L_c} = \frac{F_n}{F_i}
@@ -56,7 +56,6 @@ L_f = 22.22
 \frac{L_f}{L_c} = \frac{H_f}{H_c} = 5.55
 
 H_f = 5.55 \cdot 2 = 11.1
-$$
-
+```
 
 Our nutcracker will be 22.22 cm long, with the distance from the joint to the end of the circle being 4 cm. Our total height will be 11.1 cm and the height from the bottom to the top of the circle is 2cm. 
