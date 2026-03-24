@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Caitlyn Chen> - Curriculum Vitae
+title: Caitlyn Chen - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [cc2953@cornell.edu](mailto:cc2953@cornell.edu) | | | **Phone:** +123 456 7890
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Caitlyn Chen> - Portfolio
+title: Caitlyn Chen - Portfolio
 permalink: /projects/
 ---
 

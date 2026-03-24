@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Caitlyn Chene>
+title: Caitlyn Chen
 ---
 
 ## About Me
