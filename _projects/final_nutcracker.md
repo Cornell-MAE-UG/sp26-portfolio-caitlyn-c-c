@@ -8,9 +8,6 @@ image: /assets/images/nutcracker_final.png
 
 # Nutcracker design
 
-## Diagram:
-![This is an image of the nutcracker with its dimensions](/sp26-portfolio-caitlyn-c-c/assets/images/nutcracker_final.png)
-
 ## Given: 
 Dimensions and force to break nut
 
@@ -64,4 +61,7 @@ y(8.5) = 0.18 = (1/EI) * (0.5(16.67)(9)x^2 - (16.67/6)x^3 - 47.93x)
 $
 After subbing in 8.5 for x and 29 * 10^6 for E, we get that inertia = 0.0006in^4
 
-Setting our beam as a simple cylinder, using the equation I = pi/4 * R^4, we find that our diameter is 0.337inch. Ultimately leading to the design of the image at the top of the page
+Setting our beam as a simple cylinder, using the equation I = pi/4 * R^4, we find that our diameter is 0.337inch. Ultimately leading to the design of in the following image
+
+## Diagram:
+![This is an image of the nutcracker with its dimensions](/sp26-portfolio-caitlyn-c-c/assets/images/nutcracker_final.png)
