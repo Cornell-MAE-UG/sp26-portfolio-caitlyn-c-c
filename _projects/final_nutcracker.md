@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Nutcracker Dimensions
+title: Nutcracker Final
 description: ENGRD 2020
 technologies: ---
 image: /assets/images/nutcracker_final.png
